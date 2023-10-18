@@ -1,0 +1,21 @@
+Exercise 4
+
+a) How many standard compute nodes has the JUWELS Cluster?
+2271 standard compute nodes
+
+b) How many cores are there in a standard compute node of the JUWELS Cluster?
+2 * 24 = 48 cores
+
+c) Which is the main difference between the large memory compute nodes and the accel-
+erated compute nodes from the JUWELS Cluster?
+While the accelerated compute nodes are equipped with 4× NVIDIA V100 GPU, the large memory compute nodes do not have GPU 
+
+d) How many login nodes has the JUWELS Booster?
+4
+
+e) How many GPUs are on the JUWELS Booster?
+3744
+
+Sources: 
+https://apps.fz-juelich.de/jsc/hps/juwels/configuration.html#hardware-configuration-of-the-system-name-cluster-module
+https://apps.fz-juelich.de/jsc/hps/juwels/configuration.html#hardware-configuration-of-the-system-name-booster-module
